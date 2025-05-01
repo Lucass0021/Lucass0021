@@ -69,4 +69,8 @@ Hello! I’m a Computer Science student passionate about technology, mathematics
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Lucass0021/Lucass0021/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake.svg">
+</picture>
