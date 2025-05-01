@@ -1,76 +1,81 @@
-## Hello, World!  
-<p align="left">
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
+<h1 align="center"> Hello, World!</h1>
 
+<p align="center">
+  <a href="mailto:lucasalves0505@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://linkedin.com/in/lucas-alves-7483a027a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://instagram.com/lucas_alves_0505" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
   <a href="https://discordapp.com/users/seuIDDiscord" target="_blank">
-    <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
-<br/>
+---
 
-### 👾 About Me   
-Hello! I’m a Computer Science student passionate about technology, mathematics, and problem solving. I have strong logical reasoning skills and enjoy tackling challenges with focus and creativity. I work well in team environments and am always eager to learn and contribute to smart, effective solutions.
+### About Me
 
-<br/>  
+I'm a Computer Science student passionate about **technology, mathematics**, and **problem-solving**.  
+With strong logical reasoning and a love for learning, I enjoy tackling challenges with creativity and teamwork.
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+---
 
-- 🧠 Love logic and problem-solving challenges  
-- 💻 Computer Science student  
-- 📚 Passionate about math and tech  
-- 🤝 Great team player  
-- 🛠️ Building academic and personal projects  
-- 🌐 Interested in web development and automation  
+### ⚡ Quick Facts & Interests
 
-</td><td valign="top" width="50%">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://media.giphy.com/media/QMJMo34rqGdVRFUI4q/giphy.gif?cid=ecf05e4760oby9onmlbejiffo8m67gbzwtgnpw291tuxc5gf&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="left" style="width: 100%" />  
+- 🧠 Logical thinker & challenge lover  
+- 💻 Currently studying Computer Science  
+- 📚 Passionate about math & innovation  
+- 🤝 Team-oriented & collaborative  
+- 🔧 Building academic + personal projects  
+- 🌐 Exploring web development & automation  
 
-</td></tr></table>  
+</td>
+<td valign="top" width="50%">
+  
+<img src="https://media.giphy.com/media/QMJMo34rqGdVRFUI4q/giphy.gif?cid=ecf05e4760oby9onmlbejiffo8m67gbzwtgnpw291tuxc5gf&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" width="100%" />
 
-<br/>  
+</td>
+</tr>
+</table>
 
-## Languages and Tools  
-<div align="center">  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-  <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-</div>  
+---
 
-<br/>  
+### 🧰 Languages & Tools
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="30" style="margin: 10px;" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lucass0021&show_icons=true&count_private=true&hide_border=true" align="left" />
+---
 
-</td><td valign="top" width="50%">
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass0021&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucass0021&show_icons=true&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass0021&layout=compact&hide_border=true" height="150" />
+</div>
 
-</td></tr></table>  
+---
 
-<br/>
+### 🐍 Contribution Snake
 
-## 🐍 GitHub Contribution Snake
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Lucass0021/Lucass0021/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
