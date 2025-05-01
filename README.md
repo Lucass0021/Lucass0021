@@ -30,16 +30,20 @@ With strong logical reasoning and a love for learning, I enjoy tackling challeng
 <tr>
 <td valign="top" width="50%">
 
-- 🧠 Logical thinker & challenge lover  
-- 💻 Currently studying Computer Science  
-- 📚 Passionate about math & innovation  
-- 🤝 Team-oriented & collaborative  
-- 🔧 Building academic + personal projects  
-- 🌐 Exploring web development & automation  
+<div align="left" style="font-size: 16px; line-height: 1.8em;">
+
+✅ &nbsp;**Logical thinker** who loves challenges  
+💻 &nbsp;**Computer Science student** always learning  
+📚 &nbsp;Fascinated by **mathematics and technology**  
+🤝 &nbsp;Strong **teamwork and collaboration** skills  
+🔧 &nbsp;Building **academic and personal projects**  
+🌐 &nbsp;Exploring **web development & automation**
+
+</div>
 
 </td>
 <td valign="top" width="50%">
-  
+
 <img src="https://media.giphy.com/media/QMJMo34rqGdVRFUI4q/giphy.gif?cid=ecf05e4760oby9onmlbejiffo8m67gbzwtgnpw291tuxc5gf&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" width="100%" />
 
 </td>
