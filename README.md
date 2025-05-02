@@ -60,12 +60,12 @@ With strong logical reasoning and a love for learning, I enjoy tackling challeng
 ### 🧰 Languages & Tools
 
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" style="margin: 10px;" />
-  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="30" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" style="margin: 10px;" />
+  <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" style="margin: 10px;" />
 </div>
 
 ---
@@ -75,10 +75,10 @@ With strong logical reasoning and a love for learning, I enjoy tackling challeng
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lucass0021&show_icons=true&count_private=true&hide_border=true" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Lucass0021&show_icons=true&count_private=true&hide_border=true&theme=gotham" height="150" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass0021&layout=compact&hide_border=true" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass0021&layout=compact&hide_border=true&theme=gotham" height="150" />
     </td>
   </tr>
 </table>
