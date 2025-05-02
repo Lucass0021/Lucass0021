@@ -33,10 +33,15 @@ With strong logical reasoning and a love for learning, I enjoy tackling challeng
 <div align="left" style="font-size: 16px; line-height: 1.8em;">
 
 ✅ &nbsp;**Logical thinker** who loves challenges  
+
 💻 &nbsp;**Computer Science student** always learning  
+
 📚 &nbsp;Fascinated by **mathematics and technology**  
+
 🤝 &nbsp;Strong **teamwork and collaboration** skills  
+
 🔧 &nbsp;Building **academic and personal projects**  
+
 🌐 &nbsp;Exploring **web development & automation**
 
 </div>
