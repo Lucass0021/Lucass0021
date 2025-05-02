@@ -72,10 +72,16 @@ With strong logical reasoning and a love for learning, I enjoy tackling challeng
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucass0021&show_icons=true&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass0021&layout=compact&hide_border=true" height="150" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lucass0021&show_icons=true&count_private=true&hide_border=true" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass0021&layout=compact&hide_border=true" height="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
